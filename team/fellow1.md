@@ -1,6 +1,5 @@
 title="Миранчук Ольга Геннадьевна"    
-slug="miranchuk-olga-gennadevna"
 thumb="person-001.jpg"   
+lead="Генеральный директор"
 
 +++
-Генеральный директор

@@ -1,6 +1,5 @@
 title="Васина Елена Андреевна"    
-slug="vasina-elena-andreevna"
+lead="Психолог"
 thumb="person-005.jpg"   
 
 +++
-Психолог

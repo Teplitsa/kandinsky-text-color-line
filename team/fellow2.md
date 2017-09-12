@@ -1,6 +1,5 @@
 title="Кокорина Марина Игнатьевна"    
-slug="kokorina-marina-ignatevna"
+lead="Куратор проектов"
 thumb="person-002.jpg"   
 
 +++
-Куратор проектов
