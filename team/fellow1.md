@@ -1,6 +1,6 @@
 title="Лада Аннушкина"    
 lead="Куратор работы с родственниками"
-thumb="person-007.jpg"   
+thumb="person-001.jpg"   
 cat="team"
 
 +++
