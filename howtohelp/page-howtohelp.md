@@ -5,7 +5,7 @@ slug="howtohelp"
 
 [content name="help-intro"]
 
-[shortcode name="knd_leyka_inline_campaign" slug="donate-helpfund"]
+[shortcode name="knd_leyka_inline_campaign" slug="donate-helpfund"] 
 
 [content name="help-donations"]
 
