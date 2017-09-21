@@ -1,5 +1,5 @@
 title="Нужна помощь"  
-slug=needhelp
+slug=gethelp
 
 +++
 
