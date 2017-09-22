@@ -1,6 +1,6 @@
 title="Кто мы?"  
 lead=Узнайте о нашей работе  
-url=/about  
+url="/about/"    
 
 +++
 

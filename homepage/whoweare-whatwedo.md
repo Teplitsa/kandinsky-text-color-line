@@ -1,6 +1,6 @@
 title="Что мы делаем?"  
 lead=Посмотреть проекты  
-url=/projects  
+url="/projects/"  
 
 +++
 

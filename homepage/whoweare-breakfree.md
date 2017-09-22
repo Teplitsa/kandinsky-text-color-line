@@ -1,6 +1,6 @@
 title="Бросить пить?"  
 lead=Получить помощь  
-url=page/needhelp  
+url="/gethelp/"  
 
 +++
 
