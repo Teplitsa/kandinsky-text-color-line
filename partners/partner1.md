@@ -1,5 +1,5 @@
-title="Теплица социальных технологий"    
-thumb="org-001.png"   
-lead="https://te-st.ru/"
+title="Кандинский"    
+thumb="partner-1.png"  
+lead="http://google.ru/"
 
 +++

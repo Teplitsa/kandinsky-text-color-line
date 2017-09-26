@@ -1,5 +1,5 @@
-title="«КАФ»"    
-thumb="org-002.jpg"   
-lead="http://cafrussia.ru/"
+title="Кандинский"    
+thumb="partner-2.png"  
+lead="http://google.ru/"
 
 +++

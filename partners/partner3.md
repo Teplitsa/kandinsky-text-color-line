@@ -1,5 +1,5 @@
-title="Правительство Новгородской области"    
-thumb="org-003.jpg"   
-lead="http://www.novreg.ru/"
+title="Кандинский"    
+thumb="partner-3.png"   
+lead="http://google.ru/"
 
 +++
